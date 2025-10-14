@@ -35,7 +35,3 @@ This repository documents my progress as I learn and practice SQL, from fundamen
   - Mastered the SELECT statement for retrieving data
   - Used SELECT DISTINCT to return unique values
   - Practiced COUNT(DISTINCT column) to count unique entries
-- *Practice Files:*
-  - day2_sql_fundamentals.sql - Contains all practice queries and examples from today's session
-
-
