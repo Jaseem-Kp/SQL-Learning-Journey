@@ -9,7 +9,7 @@ This repository documents my progress as I learn and practice SQL, from fundamen
 ## Learning Log
 
 ### Day 1: Introduction to Databases & SQL
-*Date:* [Today's Date]
+*Date:* [13-10-2025]
 - *Topics Covered:*
   - What is a Database?
   - 5 Main Features of Databases:
