@@ -9,7 +9,7 @@ This repository documents my progress as I learn and practice SQL, from fundamen
 ## Learning Log
 
 ### Day 1: Introduction to Databases & SQL
-*Date:* [13-10-2025]
+*Date:* 13-10-2025
 - *Topics Covered:*
   - What is a Database?
   - 5 Main Features of Databases:
@@ -21,3 +21,21 @@ This repository documents my progress as I learn and practice SQL, from fundamen
   - Types of Databases:
     - RDBMS (Relational Database Management System)
     - NoSQL/Document Databases
+### Day 2: SQL Fundamentals & Core Commands
+*Date:* 14-10-2025
+- *Core Concepts Covered:*
+  - What SQL is and its capabilities
+  - Understanding SQL syntax and statement structure
+- *Key SQL Commands Learned:*
+  - *Data Querying:* SELECT, SELECT DISTINCT
+  - *Data Manipulation:* INSERT INTO, UPDATE, DELETE
+  - *Data Definition:* CREATE DATABASE, ALTER DATABASE, CREATE TABLE, ALTER TABLE, DROP TABLE
+  - *Data Optimization:* CREATE INDEX, DROP INDEX
+- *Detailed Focus on SELECT:*
+  - Mastered the SELECT statement for retrieving data
+  - Used SELECT DISTINCT to return unique values
+  - Practiced COUNT(DISTINCT column) to count unique entries
+- *Practice Files:*
+  - day2_sql_fundamentals.sql - Contains all practice queries and examples from today's session
+
+
