@@ -35,3 +35,14 @@ This repository documents my progress as I learn and practice SQL, from fundamen
   - Mastered the SELECT statement for retrieving data
   - Used SELECT DISTINCT to return unique values
   - Practiced COUNT(DISTINCT column) to count unique entries
+### Day 3: SQL Filtering & Sorting
+*Date:* 15-10-2025
+- *WHERE Clause Mastery:*
+  - Comparison operators: =, >, <, >=, <=, <>
+  - Special operators: BETWEEN, LIKE, IN
+  - Text vs Numeric field filtering
+- *ORDER BY Keyword:*
+  - ASC/DESC sorting
+  - Alphabetical ordering
+  - Multiple column sorting
+  - Combined WHERE and ORDER BY queries
