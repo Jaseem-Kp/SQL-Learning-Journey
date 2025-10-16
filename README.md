@@ -48,7 +48,7 @@ This repository documents my progress as I learn and practice SQL, from fundamen
   - Combined WHERE and ORDER BY queries
 ### Day 4: SQL Logical Operators
 *Date:* 16-10-2025
-  - *AND Operator:*Requiring all conditions to be TRUE
+  - *AND Operator:* Requiring all conditions to be TRUE
   - *OR Operator:* Requiring at least one condition to be TRUE
   - *Combining AND & OR:* Using parentheses for complex logic
   - *NOT Operator:* Excluding data by negating conditions
