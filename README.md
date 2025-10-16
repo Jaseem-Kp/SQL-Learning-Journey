@@ -46,3 +46,12 @@ This repository documents my progress as I learn and practice SQL, from fundamen
   - Alphabetical ordering
   - Multiple column sorting
   - Combined WHERE and ORDER BY queries
+### Day 4: SQL Logical Operators
+*Date:* 16-10-2025
+  - *AND Operator:*Requiring all conditions to be TRUE
+  - *OR Operator:* Requiring at least one condition to be TRUE
+  - *Combining AND & OR:* Using parentheses for complex logic
+  - *NOT Operator:* Excluding data by negating conditions
+    - NOT LIKE, NOT BETWEEN, NOT IN
+    - NOT with comparison operators
+  - *Complex Query Building:* Creating multi-condition logical statements
