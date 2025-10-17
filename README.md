@@ -55,3 +55,14 @@ This repository documents my progress as I learn and practice SQL, from fundamen
     - NOT LIKE, NOT BETWEEN, NOT IN
     - NOT with comparison operators
   - *Complex Query Building:* Creating multi-condition logical statements
+### Day 5: INSERT Statements & NULL Values
+*Date:* 17-10-2025
+- *INSERT INTO Statements:*
+  - Inserting complete rows
+  - Inserting data into specific columns only
+  - Inserting multiple rows efficiently
+- *NULL Values:*
+  - Understanding NULL as "unknown" or "missing"
+  - Testing for NULL with IS NULL operator
+  - Testing for non-NULL with IS NOT NULL operator
+  - Why = NULL and <> NULL don't work
