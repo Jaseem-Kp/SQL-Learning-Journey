@@ -66,3 +66,15 @@ This repository documents my progress as I learn and practice SQL, from fundamen
   - Testing for NULL with IS NULL operator
   - Testing for non-NULL with IS NOT NULL operator
   - Why = NULL and <> NULL don't work
+### Day 6: UPDATE & DELETE Statements
+*Date:* 18-10-2025
+- *UPDATE Statement:*
+  - Modifying existing records in a table
+  - Updating single and multiple columns
+  - Using WHERE clause to target specific records
+  - Understanding the danger of updating without a WHERE clause
+- *DELETE Statement:*
+  - Removing specific records from a table
+  - Using conditions to delete multiple records
+  - Critical difference between DELETE and DROP TABLE
+  - Importance of WHERE clause to prevent data loss
