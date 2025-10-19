@@ -21,6 +21,7 @@ This repository documents my progress as I learn and practice SQL, from fundamen
   - Types of Databases:
     - RDBMS (Relational Database Management System)
     - NoSQL/Document Databases
+      
 ### Day 2: SQL Fundamentals & Core Commands
 *Date:* 14-10-2025
 - *Core Concepts Covered:*
@@ -35,6 +36,7 @@ This repository documents my progress as I learn and practice SQL, from fundamen
   - Mastered the SELECT statement for retrieving data
   - Used SELECT DISTINCT to return unique values
   - Practiced COUNT(DISTINCT column) to count unique entries
+    
 ### Day 3: SQL Filtering & Sorting
 *Date:* 15-10-2025
 - *WHERE Clause Mastery:*
@@ -46,6 +48,7 @@ This repository documents my progress as I learn and practice SQL, from fundamen
   - Alphabetical ordering
   - Multiple column sorting
   - Combined WHERE and ORDER BY queries
+    
 ### Day 4: SQL Logical Operators
 *Date:* 16-10-2025
   - *AND Operator:* Requiring all conditions to be TRUE
@@ -55,6 +58,7 @@ This repository documents my progress as I learn and practice SQL, from fundamen
     - NOT LIKE, NOT BETWEEN, NOT IN
     - NOT with comparison operators
   - *Complex Query Building:* Creating multi-condition logical statements
+
 ### Day 5: INSERT Statements & NULL Values
 *Date:* 17-10-2025
 - *INSERT INTO Statements:*
@@ -66,6 +70,7 @@ This repository documents my progress as I learn and practice SQL, from fundamen
   - Testing for NULL with IS NULL operator
   - Testing for non-NULL with IS NOT NULL operator
   - Why = NULL and <> NULL don't work
+  
 ### Day 6: UPDATE & DELETE Statements
 *Date:* 18-10-2025
 - *UPDATE Statement:*
@@ -78,3 +83,19 @@ This repository documents my progress as I learn and practice SQL, from fundamen
   - Using conditions to delete multiple records
   - Critical difference between DELETE and DROP TABLE
   - Importance of WHERE clause to prevent data loss
+
+### Day 7: Limiting Query Results
+*Date:* 19-10-2025
+- *Database-Specific Limit Clauses:*
+  - SQL Server: SELECT TOP and SELECT TOP PERCENT
+  - MySQL: LIMIT clause for row limiting and pagination
+  - Oracle: FETCH FIRST n ROWS ONLY and FETCH FIRST n PERCENT ROWS ONLY
+- *Advanced Usage:*
+  - Combining limit clauses with WHERE for filtered limiting
+  - Using with ORDER BY to get top/bottom records
+  - Understanding performance implications of each approach
+- *Cross-Platform Understanding:*
+  - Recognizing different syntax for the same functionality
+  - Learning to adapt queries for different database systems
+
+    
