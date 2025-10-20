@@ -98,4 +98,21 @@ This repository documents my progress as I learn and practice SQL, from fundamen
   - Recognizing different syntax for the same functionality
   - Learning to adapt queries for different database systems
 
+### Day 8: Aggregate Functions & Data Analysis
+*Date:* 20-10-2025
+- *Aggregate Functions Mastered:*
+  - COUNT(): Counting records, with and without duplicates using DISTINCT
+  - MIN() & MAX(): Finding minimum and maximum values in columns
+  - Column Specification: Using specific columns vs * in aggregate functions
+- *Advanced Grouping:*
+  - GROUP BY Clause: Aggregating data by categories and groups
+  - Column Aliases (AS): Creating meaningful names for result columns
+- *Filtered Aggregation:*
+  - Combining WHERE clause with aggregate functions
+  - Applying conditions before and during aggregation
+- *Practical Applications:*
+  - Customer analytics by location
+  - Price analysis by product categories
+  - Order patterns by customer segments
+
     
