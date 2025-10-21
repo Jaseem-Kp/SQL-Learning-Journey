@@ -115,4 +115,23 @@ This repository documents my progress as I learn and practice SQL, from fundamen
   - Price analysis by product categories
   - Order patterns by customer segments
 
+### Day 9: SUM() & AVG() Aggregate Functions
+*Date:* 21-10-2025
+- *SUM() Function Mastery:*
+  - Calculating totals and running sums across numerical data
+  - Using with mathematical expressions for calculated totals
+  - Grouping sums by categories for business reporting
+- *AVG() Function Applications:*
+  - Finding average values and central tendencies
+  - Identifying above/below average performance patterns
+  - Comparative analysis across different groups
+- *Advanced Business Intelligence:*
+  - "Higher than average" pattern: Using subqueries to find top performers
+  - Filtered aggregation: Applying WHERE clauses before calculation
+  - Multi-level grouping: Complex reports with multiple aggregate functions
+- *Practical Use Cases:*
+  - Sales reporting and revenue analysis
+  - Inventory valuation and management
+  - Customer spending patterns and segmentation
+
     
