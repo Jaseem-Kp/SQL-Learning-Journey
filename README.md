@@ -134,4 +134,15 @@ This repository documents my progress as I learn and practice SQL, from fundamen
   - Inventory valuation and management
   - Customer spending patterns and segmentation
 
-    
+### Day 10: LIKE Operator and Wildcards
+*Date:* 22-10-2025
+- *LIKE Operator Mastery:*
+  - % Wildcard: Matching any sequence of characters (zero or more)
+  - _ Wildcard: Matching exactly one character
+  - Pattern Combinations: Using both wildcards for complex searches
+- *Advanced Search Patterns:*
+  - Starts With: Identifying records beginning with specific text
+  - Ends With: Finding records ending with certain patterns
+  - Contains: Searching for text anywhere within field values
+  - Specific Positions: Pattern matching at character positions
+
