@@ -146,3 +146,19 @@ This repository documents my progress as I learn and practice SQL, from fundamen
   - Contains: Searching for text anywhere within field values
   - Specific Positions: Pattern matching at character positions
 
+### Day 11: Advanced Wildcards & IN Operator
+*Date:* 23-10-2025
+- *Advanced Wildcards Mastered:*
+  - [] Wildcard: Character sets and specific character matching
+  - - Wildcard: Character ranges for efficient pattern definitions
+  - ^ Wildcard: Negation within character sets
+  - {} Wildcard: Extended pattern matching (database-specific)
+- *IN Operator Power:*
+  - IN(): Set-based value matching for multiple conditions
+  - NOT IN(): Exclusion of specific value sets
+  - Static Lists: Hardcoded value sets for filtering
+- *Advanced Subquery Integration:*
+  - IN with Subqueries: Dynamic value sets from other tables
+  - NOT IN with Subqueries: Advanced exclusion based on related data
+  - Multi-level Nesting: Complex business logic implementation
+
