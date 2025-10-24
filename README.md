@@ -162,3 +162,18 @@ This repository documents my progress as I learn and practice SQL, from fundamen
   - NOT IN with Subqueries: Advanced exclusion based on related data
   - Multi-level Nesting: Complex business logic implementation
 
+### Day 12: BETWEEN Operator
+*Date:* 24-10-2025
+- *BETWEEN Operator Mastery:*
+  - BETWEEN Syntax: Inclusive range filtering (value >= low AND value <= high)
+  - NOT BETWEEN: Exclusive range filtering
+  - Numeric Ranges: Working with number intervals and thresholds
+- *Data Type Applications:*
+  - Text Values: Alphabetical range filtering and sorting
+  - Date Ranges: Time-based filtering for reports and analytics
+  - Numeric Ranges: Price, age, quantity, and measurement filtering
+- *Advanced Combinations:*
+  - BETWEEN with IN: Combining range and set-based filtering
+  - Multiple Conditions: Complex business logic with AND/OR operators
+  - HAVING with BETWEEN: Post-aggregation range filtering
+
