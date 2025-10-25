@@ -177,3 +177,29 @@ This repository documents my progress as I learn and practice SQL, from fundamen
   - Multiple Conditions: Complex business logic with AND/OR operators
   - HAVING with BETWEEN: Post-aggregation range filtering
 
+## Day 13: SQL Aliases and Column Operations
+*Date:* 25-10-2025
+- *Aliases Mastery:*
+  - Column Aliases: Using AS keyword for readable column names
+  - Table Aliases: Shortening table references in queries
+  - Optional AS: Understanding when AS keyword can be omitted
+- *Alias Syntax Variations:*
+  - Square Brackets: Handling spaced aliases in SQL Server `[Alias Name]`
+  - Double Quotes: Standard SQL spaced aliases `"Alias Name"`
+  - Simple Aliases: Single-word aliases without special characters
+- *Column Operations:*
+  - Column Concatenation: Combining multiple columns into single output
+  - Multi-Database Syntax: 
+    - SQL Server: `+` operator for string concatenation
+    - MySQL: `CONCAT()` function for joining columns
+    - Oracle: `||` operator for string combination
+  - Practical Applications: Creating formatted addresses, full names, and composite fields
+- *Advanced Query Techniques:*
+  - Multi-Table Queries: Using aliases for JOIN operations
+  - Readability Improvement: Simplifying complex queries with table shortcuts
+  - Conditional Filtering: Combining WHERE clauses with aliased tables
+- *Common Use Cases:*
+  - Customer data formatting (Address concatenation)
+  - Report column renaming for business users
+  - Complex query simplification in multi-table environments
+ 
