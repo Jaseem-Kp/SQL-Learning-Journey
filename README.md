@@ -203,3 +203,18 @@ This repository documents my progress as I learn and practice SQL, from fundamen
   - Report column renaming for business users
   - Complex query simplification in multi-table environments
  
+### Day 14: SQL JOINS - INNER JOIN
+*Date:* 26-10-2025
+- *First Steps into JOINS:*
+  - Introduction to Table Relationships: Understanding how data connects across tables
+  - INNER JOIN Foundation: Learned basic syntax and concept of matching records
+  - Initial Examples: Practiced connecting orders with customers and products with categories
+- *Current Understanding:*
+  - JOINS use common columns (foreign keys) to combine related data
+  - INNER JOIN returns only records that exist in both tables
+  - This is the starting point for understanding more complex relationships
+- *Learning Path:*
+  - Today: INNER JOIN basics and fundamental concepts
+  - Next: Exploring LEFT JOIN, RIGHT JOIN, and multiple table joins
+  - Future: Mastering complex relationships and real-world scenarios
+
