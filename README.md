@@ -218,3 +218,29 @@ This repository documents my progress as I learn and practice SQL, from fundamen
   - Next: Exploring LEFT JOIN, RIGHT JOIN, and multiple table joins
   - Future: Mastering complex relationships and real-world scenarios
 
+### Day 15: Advanced SQL JOINS
+*Date:* 27-10-2025
+- *JOIN Variations Mastered:*
+  - JOIN vs INNER JOIN: Discovered they are functionally identical
+  - Table Naming Conventions: Explicit table.column syntax for clarity
+- *Multi-Table JOIN Expertise:*
+  - Three-Table JOINS: Connecting Orders → Customers → Shippers in single queries
+  - Complex Relationships: Understanding how to chain multiple relationships
+  - Alias Best Practices: Using table aliases for cleaner multi-join queries
+- *LEFT JOIN Proficiency:*
+  - Syntax & Logic: Keeping ALL left table records + matched right table data
+  - Business Use Cases: Finding all customers (including those with no orders)
+  - NULL Detection: Using LEFT JOIN to identify missing relationships
+- *RIGHT JOIN Understanding:*
+  - Reverse Logic: Keeping ALL right table records + matched left table data
+  - Practical Applications: All employees (including those with no sales)
+  - Complementary Use: When the primary focus is on the "right" table
+- *Advanced Business Scenarios:*
+  - Customer Analysis: Identifying inactive customers (no orders)
+  - Employee Performance: Tracking sales reps including non-performers
+  - Comprehensive Reporting: Multi-table business intelligence queries
+- *Key Insights:*
+  - NULL Values: How JOINs handle missing relationships
+  - Query Planning: Choosing the right JOIN type for business questions
+  - Performance Considerations: Impact of different JOIN types on results
+ 
