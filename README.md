@@ -244,3 +244,17 @@ This repository documents my progress as I learn and practice SQL, from fundamen
   - Query Planning: Choosing the right JOIN type for business questions
   - Performance Considerations: Impact of different JOIN types on results
  
+### Day 16: Advanced JOINS Complete - FULL OUTER JOIN & SELF JOIN
+*Date:* 28-10-2025
+- *FULL OUTER JOIN Mastery:*
+  - Complete Data Union: Combining ALL records from both tables
+  - NULL Handling: Understanding where matches don't exist
+  - Data Reconciliation: Perfect for system integration and validation
+  - Business Applications: Finding orphaned records and data gaps
+- *SELF JOIN Expertise:*
+  - Table Self-Reference: Joining a table to itself using aliases
+  - Hierarchical Data: Modeling organizational charts and reporting structures
+  - Relationship Mapping: Employee-manager, product-component relationships
+  - Multi-level Analysis: Complex organizational hierarchies
+ 
+    
