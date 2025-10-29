@@ -257,4 +257,14 @@ This repository documents my progress as I learn and practice SQL, from fundamen
   - Relationship Mapping: Employee-manager, product-component relationships
   - Multi-level Analysis: Complex organizational hierarchies
  
+### Day 17: SQL UNION Operator
+*Date:* 29-10-2025
+- *UNION Operator Mastery:*
+  - Dataset Combination: Merging results from multiple SELECT statements
+  - Duplicate Handling: Automatic DISTINCT results across combined datasets
+  - Structure Requirements: Same number of columns with compatible data types
+- *Advanced UNION Techniques:*
+  - WHERE Clause Integration: Filtering data before combining results
+  - Type Identification: Adding source labels to track data origins
+  - Multiple Columns: Complex dataset combinations with comprehensive field mapping
     
