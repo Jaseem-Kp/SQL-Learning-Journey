@@ -268,3 +268,15 @@ This repository documents my progress as I learn and practice SQL, from fundamen
   - Type Identification: Adding source labels to track data origins
   - Multiple Columns: Complex dataset combinations with comprehensive field mapping
     
+### Day 18: SQL UNION ALL Operator
+*Date:* 30-10-2025
+- *UNION ALL Operator Mastery:*
+  - Performance Optimization: Skip duplicate checking for faster query execution
+  - Duplicate Preservation: Maintain complete data integrity with all records
+  - WHERE Clause Integration: Pre-filter datasets before combination
+- *Performance vs Data Quality:*
+  - UNION ALL: High performance, preserves duplicates (2-3x faster)
+  - UNION: Data cleanliness, removes duplicates (slower but cleaner)
+  - Decision Framework: When to choose each based on business requirements
+ 
+    
