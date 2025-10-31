@@ -279,4 +279,21 @@ This repository documents my progress as I learn and practice SQL, from fundamen
   - UNION: Data cleanliness, removes duplicates (slower but cleaner)
   - Decision Framework: When to choose each based on business requirements
  
-    
+### Day 19: SQL GROUP BY Statement - Foundation
+*Date:* 31-10-2025
+- *GROUP BY Introduction:*
+  - Basic Grouping: Learning to group rows by common column values
+  - Aggregate Functions: Using COUNT() with GROUP BY for data summarization
+  - Single Column Grouping: Basic category-based analysis
+- *Result Enhancement:*
+  - ORDER BY Integration: Sorting grouped results for better readability
+  - Column Aliases: Improving output clarity with descriptive names
+  - Multi-column Grouping: Basic hierarchical grouping concepts
+- *Table Integration:*
+  - JOIN with GROUP BY: Combining tables before aggregation
+  - Relationship Analysis: Counting related records across tables
+- *Current Understanding:*
+  - GROUP BY creates summary reports by categories
+  - Essential for basic business intelligence and reporting
+  - Foundation for more advanced aggregation scenarios
+ 
