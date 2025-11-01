@@ -297,3 +297,23 @@ This repository documents my progress as I learn and practice SQL, from fundamen
   - Essential for basic business intelligence and reporting
   - Foundation for more advanced aggregation scenarios
  
+### Day 20: SQL HAVING Clause
+*Date:* 01-11-2025
+- *HAVING Clause Introduction:*
+  - Post-Aggregation Filtering: Learning to filter groups after GROUP BY
+  - Basic Syntax: HAVING with COUNT() and comparison operators
+  - Threshold Analysis: Finding groups that meet minimum criteria
+- *Query Integration:*
+  - ORDER BY Combination: Sorting filtered aggregated results
+  - JOIN with HAVING: Filtering aggregated results from multiple tables
+  - WHERE + HAVING: Row-level filtering before group-level filtering
+- *Practical Applications:*
+  - Customer Analysis: Identifying countries with significant customer bases
+  - Performance Metrics: Finding employees with high order volumes
+  - Targeted Filtering: Specific employee analysis with combined conditions
+- *Current Understanding:*
+  - HAVING works on aggregated data after GROUP BY
+  - Essential for business intelligence and performance reporting
+  - Complements WHERE clause for comprehensive data filtering
+ 
+    
