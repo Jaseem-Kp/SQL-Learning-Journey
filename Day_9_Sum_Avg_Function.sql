@@ -15,7 +15,7 @@ SELECT SUM(Quantity) AS total FROM OrderDetails;
 
 -- SUM() Funtion with GROUP BY
 
-SELECT OrderID, SUM(Quantity) AS [Total of Quantity] FROM OrderDetails;
+SELECT OrderID, SUM(Quantity) AS [Total of Quantity] FROM OrderDetails GROUP BY OrderID;
 
 -- SUM() With Expression
 
