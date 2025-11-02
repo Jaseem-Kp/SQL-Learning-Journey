@@ -316,4 +316,20 @@ This repository documents my progress as I learn and practice SQL, from fundamen
   - Essential for business intelligence and performance reporting
   - Complements WHERE clause for comprehensive data filtering
  
-    
+### Day 21: SQL EXISTS Operator  
+*Date:* 02-11-2025
+- *EXISTS Operator Introduction:*
+  - Conditional Testing: Learning to check if subquery returns results
+  - Basic Syntax: EXISTS with correlated subqueries
+  - Boolean Logic: Returns TRUE/FALSE based on subquery results
+- *Practical Applications:*
+  - Supplier Filtering: Finding suppliers with specific product criteria
+  - Relationship Checking: Verifying connections between related tables
+  - Price Analysis: Identifying suppliers with products in specific price ranges
+- *Current Understanding:*
+  - EXISTS is used in WHERE clause with subqueries
+  - Correlated subqueries reference the outer query's table
+  - More efficient than some alternatives for existence checking
+  - Foundation for complex conditional business logic
+ 
+  
