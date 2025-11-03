@@ -332,4 +332,22 @@ This repository documents my progress as I learn and practice SQL, from fundamen
   - More efficient than some alternatives for existence checking
   - Foundation for complex conditional business logic
  
-  
+### Day 22: SQL ANY and ALL Operators
+*Date:* 03-11-2025
+- *ANY Operator Introduction:*
+  - Set Comparison: Learning to check if any subquery values meet condition
+  - "At Least One" Logic: Returns TRUE if any record matches
+  - Product Analysis: Finding products with specific order quantities
+  - Practical Use Cases: Inventory and sales analysis
+- *ALL Operator Introduction:*
+  - Strict Comparison: Learning to check if ALL subquery values meet condition
+  - "Every Single" Logic: Returns TRUE only if all records match
+  - Basic Usage: Understanding ALL with SELECT statements
+  - Realistic Scenarios: When ALL conditions are practically useful
+- *Current Understanding:*
+  - ANY and ALL work with subqueries in WHERE clauses
+  - ANY is less strict (like OR logic across values)
+  - ALL is very strict (like AND logic across values)
+  - Foundation for advanced conditional filtering
+ 
+    
