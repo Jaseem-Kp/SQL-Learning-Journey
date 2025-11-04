@@ -350,4 +350,22 @@ This repository documents my progress as I learn and practice SQL, from fundamen
   - ALL is very strict (like AND logic across values)
   - Foundation for advanced conditional filtering
  
+### Day 23: SQL SELECT INTO Statement   
+*Date:* 04-11-2025
+- *SELECT INTO Statement Introduction:*
+  - Table Creation: Learning to create new tables from query results
+  - Backup Operations: Making copies of existing tables for data protection
+  - Selective Copying: Extracting specific columns into new tables
+  - Filtered Data Extraction: Creating subsets of data using WHERE clauses
+- *Practical Applications:*
+  - Data Backup: Creating periodic backups of important tables
+  - Data Archiving: Moving historical data to archive tables
+  - Subset Creation: Making working copies of specific data segments
+  - Reporting Tables: Creating denormalized tables for reporting purposes
+- *Current Understanding:*
+  - SELECT INTO creates a new table automatically
+  - Useful for data migration and backup strategies
+  - Can work with single tables or complex JOIN operations
+  - Foundation for data management and ETL processes
+ 
     
