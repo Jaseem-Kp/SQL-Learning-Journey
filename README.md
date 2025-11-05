@@ -368,4 +368,22 @@ This repository documents my progress as I learn and practice SQL, from fundamen
   - Can work with single tables or complex JOIN operations
   - Foundation for data management and ETL processes
  
+### Day 24: SQL INSERT INTO SELECT Statement
+*Date:* 05-11-2025
+- *INSERT INTO SELECT Introduction:*
+  - Data Transfer: Learning to copy data between existing tables
+  - Column Mapping: Selecting specific columns for insertion
+  - Filtered Data Copy: Using WHERE clause to select specific records
+  - Table Structure: Understanding that target table must pre-exist
+- *Practical Applications:*
+  - Data Migration: Moving data between similar table structures
+  - Data Archiving: Copying old records to archive tables
+  - Table Population: Initializing tables with data from other sources
+  - Data Consolidation: Combining data from multiple sources
+- *Current Understanding:*
+  - INSERT INTO SELECT requires the target table to exist
+  - Column order and data types must be compatible
+  - Can be used with WHERE for selective data transfer
+  - Different from SELECT INTO which creates a new table
+
     
