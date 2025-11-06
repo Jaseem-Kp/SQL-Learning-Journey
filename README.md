@@ -386,4 +386,21 @@ This repository documents my progress as I learn and practice SQL, from fundamen
   - Can be used with WHERE for selective data transfer
   - Different from SELECT INTO which creates a new table
 
+### Day 25: SQL CASE Expression
+*Date:* 06-11-2025
+- *CASE Expression Introduction:*
+  - Conditional Logic: Learning IF-THEN-ELSE functionality in SQL
+  - Sequential Evaluation: Understanding how CASE checks conditions in order
+  - Value Categorization: Creating descriptive labels from raw data
+  - Dynamic Sorting: Implementing conditional ordering in queries
+- *Practical Applications:*
+  - Data Classification: Categorizing quantities, prices, and other numerical data
+  - Null Handling: Providing fallback values for missing data
+  - Result Formatting: Making query output more user-friendly
+  - Custom Sorting: Implementing business-specific ordering rules
+- *Current Understanding:*
+  - CASE can be used in SELECT, ORDER BY, and other clauses
+  - Conditions are evaluated from top to bottom
+  - ELSE clause is optional but recommended
+  - Foundation for dynamic and conditional query results
     
