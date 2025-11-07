@@ -404,3 +404,26 @@ This repository documents my progress as I learn and practice SQL, from fundamen
   - ELSE clause is optional but recommended
   - Foundation for dynamic and conditional query results
     
+### Day 26: SQL NULL Functions
+*Date:* 07-11-2025
+- *NULL Functions Introduction:*
+  - Missing Data Handling: Learning to replace NULL values with defaults
+  - Database Compatibility: Understanding different functions across systems
+  - Calculation Safety: Preventing errors in mathematical operations
+  - Standard vs Proprietary: COALESCE (standard) vs database-specific functions
+- *Function Overview:*                      - IFNULL(): MySQL specific, takes two parameters
+  - COALESCE(): SQL standard, can handle multiple parameters
+  - ISNULL(): SQL Server specific, takes two parameters
+  - NVL(): Oracle specific, takes two parameters
+- *Practical Applications:*
+  - Financial Calculations: Ensuring accurate totals with missing data
+  - Data Reporting: Providing meaningful defaults for NULL values
+  - Cross-Database Queries: Using COALESCE for compatibility
+  - Error Prevention: Avoiding NULL propagation in expressions
+- *Current Understanding:*
+  - NULL functions replace NULL with specified default values
+  - Essential for reliable calculations and reporting
+  - COALESCE is the most portable across database systems
+  - Foundation for robust data handling in queries
+
+    
