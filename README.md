@@ -426,4 +426,27 @@ This repository documents my progress as I learn and practice SQL, from fundamen
   - COALESCE is the most portable across database systems
   - Foundation for robust data handling in queries
 
+### Day 27: SQL Stored Procedures
+*Date:* 08-11-2025
+- *Stored Procedures Introduction:*
+  - Reusable Code: Learning to create named database operations
+  - Procedure Creation: Using CREATE PROCEDURE syntax
+  - Parameter Definition: Adding input parameters with data types
+  - Execution: Calling procedures with EXEC command
+- *Basic Concepts:*
+  - Parameterized Queries: Creating dynamic filters with input parameters
+  - Multiple Parameters: Handling multiple input values
+  - Code Encapsulation: Bundling SQL logic into reusable units
+  - Database Objects: Understanding stored procedures as database objects
+- *Practical Applications:*
+  - Common Queries: Creating reusable versions of frequently used queries
+  - Dynamic Filtering: Building flexible search operations
+  - Code Organization: Structuring database logic for maintainability
+  - Performance: Potential benefits of pre-compiled execution plans
+- *Current Understanding:*
+  - Stored procedures are created once and executed multiple times
+  - Can accept parameters to make them flexible and reusable
+  - Specific to database systems (SQL Server syntax shown)
+  - Foundation for database programming and application development
+
     
