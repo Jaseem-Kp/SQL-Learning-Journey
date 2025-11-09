@@ -449,4 +449,19 @@ This repository documents my progress as I learn and practice SQL, from fundamen
   - Specific to database systems (SQL Server syntax shown)
   - Foundation for database programming and application development
 
-    
+### Day 28: SQL Comments
+*Date:* 09-11-2025
+- *SQL Comments Introduction:*
+  - Single-line Comments: Learning -- syntax for quick notes
+  - Multi-line Comments: Learning /* */ syntax for block comments
+  - Code Documentation: Adding explanations to SQL queries
+  - Temporary Disabling: Commenting out code for testing purposes
+- *Practical Applications:*                 - Query Explanations: Documenting the purpose of SQL statements
+  - Code Testing: Temporarily disabling parts of queries
+  - Team Collaboration: Making code understandable for others
+  - Debugging: Isolating problematic sections of code
+- *Current Understanding:*
+  - Comments are ignored by SQL database engines
+  - Essential for writing maintainable and understandable code
+  - Single-line comments disable everything after -- on a line
+  - Multi-line comments can span multiple lines between /* and */   
