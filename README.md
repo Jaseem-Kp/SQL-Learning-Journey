@@ -465,3 +465,24 @@ This repository documents my progress as I learn and practice SQL, from fundamen
   - Essential for writing maintainable and understandable code
   - Single-line comments disable everything after -- on a line
   - Multi-line comments can span multiple lines between /* and */   
+
+### Day 29: SQL Operators
+*Date:* 10-11-2025
+- *SQL Operators Introduction:*
+  - Arithmetic Operators: Learning basic math operations (+, -, *, /, %)
+  - Comparison Operators: Understanding value comparisons (=, >, <, <>, >=, <=)
+  - Bitwise Operators: Introduction to binary operations (&, |, ^)
+  - Compound Operators: Overview of combined operations (+=, -=, etc.)
+  - Logical Operators: Recognizing conditional logic keywords
+- *Basic Concepts:*
+  - Mathematical Operations: Performing calculations in SELECT statements
+  - Value Comparisons: Filtering data using comparison operators
+  - Operator Categories: Understanding different types of operators
+  - Syntax Recognition: Identifying operator symbols and keywords
+- *Current Understanding:*
+  - Operators perform operations on values and expressions
+  - Essential for calculations, filtering, and data manipulation
+  - Different categories serve different purposes
+  - Foundation for building complex SQL expressions and conditions
+
+    
