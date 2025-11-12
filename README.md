@@ -503,4 +503,20 @@ This repository documents my progress as I learn and practice SQL, from fundamen
   - Database names should be clear and descriptive
   - Foundation for all subsequent database objects and operations
 
-    
+### Day 31: SQL DROP DATABASE Statement
+*Date:* 12-11-2025
+- *DROP DATABASE Introduction:*
+  - Database Removal: Learning to delete entire database environments
+  - Permanent Action: Understanding data loss is irreversible
+  - Safety Warnings: Recognizing the dangerous nature of this command
+  - Permission Requirements: Admin privileges needed for execution
+- *Basic Concept:*
+  - Irreversible Operation: No undo functionality for DROP DATABASE
+  - Verification Importance: Double-checking database names before execution
+  - Data Loss Consequences: Complete loss of all stored information
+  - Responsible Usage: Using this command only when absolutely necessary
+- *Current Understanding:*
+  - DROP DATABASE permanently removes a database and all its contents
+  - Extremely dangerous command that requires caution
+  - Should only be used with proper backups and verification
+  - Foundation for understanding database lifecycle management
