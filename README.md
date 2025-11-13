@@ -520,3 +520,23 @@ This repository documents my progress as I learn and practice SQL, from fundamen
   - Extremely dangerous command that requires caution
   - Should only be used with proper backups and verification
   - Foundation for understanding database lifecycle management
+
+### Day 32: SQL BACKUP DATABASE for SQL Server
+*Date:* 13-11-2025
+- *SQL Server Backup Introduction:*
+  - Full Backups: Learning BACKUP DATABASE for complete data protection
+  - Differential Backups: Understanding WITH DIFFERENTIAL for incremental backups
+  - Backup Files: Creating .bak files for data storage
+  - Path Specification: Learning to specify disk locations for backups
+- *Basic Concepts:*
+  - Data Protection: Importance of regular database backups
+  - Backup Types: Difference between full and differential backups
+  - File Management: Understanding .bak file format and storage
+  - SQL Server Specific: These commands are specific to Microsoft SQL Server
+- *Current Understanding:*
+  - BACKUP DATABASE creates protection copies of databases
+  - Full backups contain all data, differentials contain changes only
+  - Requires proper disk paths and file naming
+  - Essential skill for database administration and maintenance
+
+    
