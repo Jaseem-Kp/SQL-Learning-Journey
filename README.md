@@ -539,4 +539,22 @@ This repository documents my progress as I learn and practice SQL, from fundamen
   - Requires proper disk paths and file naming
   - Essential skill for database administration and maintenance
 
+### Day 33: SQL CREATE TABLE Statement
+*Date:* 14-11-2025
+- *CREATE TABLE Introduction:*
+  - Table Creation: Learning to define new database tables
+  - Column Specification: Defining column names and data types
+  - Data Types: Introduction to int, varchar, and other types
+  - Table Copying: Creating tables from existing table structures
+- *Basic Concepts:*
+  - Schema Design: Planning table structures for data storage
+  - Column Definition: Setting up fields with appropriate data types
+  - Data Integrity: Using proper data types for different information
+  - Table Relationships: Foundation for connecting tables later
+- *Current Understanding:*
+  - CREATE TABLE builds the structure for storing data
+  - Each column needs a name and data type specification
+  - Tables can be created from scratch or copied from existing ones
+  - Essential for database design and application development
+
     
