@@ -557,4 +557,22 @@ This repository documents my progress as I learn and practice SQL, from fundamen
   - Tables can be created from scratch or copied from existing ones
   - Essential for database design and application development
 
+### Day 34: SQL DROP TABLE and TRUNCATE TABLE
+*Date:* 15-11-2025
+- *Table Removal Introduction:*
+  - DROP TABLE: Learning to completely remove tables and all data
+  - TRUNCATE TABLE: Learning to delete all data while keeping table structure
+  - Permanent Actions: Understanding both commands are irreversible
+  - Safety Warnings: Recognizing the need for caution with these operations
+- *Basic Concepts:*
+  - Complete Removal: DROP TABLE eliminates both structure and data
+  - Data Clearing: TRUNCATE TABLE removes only data, preserves structure
+  - Irreversible Operations: No undo functionality for either command
+  - Use Case Differences: When to use each command appropriately
+- *Current Understanding:*
+  - DROP TABLE removes the entire table from the database
+  - TRUNCATE TABLE keeps the table but deletes all records
+  - Both require careful consideration before execution
+  - Essential for database maintenance and cleanup operations
+ 
     
